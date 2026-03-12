@@ -26,7 +26,7 @@ Welcome to the **University Event Management Platform**, a comprehensive, backen
 
 1. **Clone the Repository** (or download the source code):
    ```bash
-   git clone https://github.com/avin243/college_event_system-main.git
+   git clone https://github.com/avin243/unievents.git
    cd college_event_system-main
    ```
 
