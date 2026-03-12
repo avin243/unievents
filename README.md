@@ -1,4 +1,4 @@
-# University Event Management Platform — v3
+# University Event Management Platform 
 
 Welcome to the **University Event Management Platform**, a comprehensive, backend-driven API with a static frontend for managing college and university events. This platform allows administrators to create and manage events, while students can register for events individually or form internal teams to participate in team-based events.
 
